@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: 04b11e9f56a473b43a85c0d703857737
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -52478552953334937
+    second: Exterminator spritesheet_0
+  - first:
+      213: 6560602880282235973
+    second: Exterminator spritesheet_1
+  - first:
+      213: 1312739181344579936
+    second: Exterminator spritesheet_2
+  - first:
+      213: 6341352768563471184
+    second: Exterminator spritesheet_3
+  - first:
+      213: 6754600068765935453
+    second: Exterminator spritesheet_4
+  - first:
+      213: 3097472844089527356
+    second: Exterminator spritesheet_5
+  - first:
+      213: -4765008522555832057
+    second: Exterminator spritesheet_6
+  - first:
+      213: -4489112190923556711
+    second: Exterminator spritesheet_7
+  - first:
+      213: -1182754808933349484
+    second: Exterminator spritesheet_8
+  - first:
+      213: -7363746519906210399
+    second: Exterminator spritesheet_9
+  - first:
+      213: -9048587035525855692
+    second: Exterminator spritesheet_10
+  - first:
+      213: -1426084352241823789
+    second: Exterminator spritesheet_11
+  - first:
+      213: -5400852884985278523
+    second: Exterminator spritesheet_12
+  - first:
+      213: -7390507546931615811
+    second: Exterminator spritesheet_13
+  - first:
+      213: -4558949777389917961
+    second: Exterminator spritesheet_14
+  - first:
+      213: 4539830227916117595
+    second: Exterminator spritesheet_15
+  - first:
+      213: -4505829025971326484
+    second: Exterminator spritesheet_16
+  - first:
+      213: -2615411082554120530
+    second: Exterminator spritesheet_17
+  - first:
+      213: -5236542350275253790
+    second: Exterminator spritesheet_18
+  - first:
+      213: 5427989439132321578
+    second: Exterminator spritesheet_19
+  - first:
+      213: -3121242544913181293
+    second: Exterminator spritesheet_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exterminator spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 573
+        width: 202
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763d3ecb80f854ff0800000000000000
+      internalID: -52478552953334937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 575
+        width: 202
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54490af5f81fb0b50800000000000000
+      internalID: 6560602880282235973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 574
+        width: 202
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061e7ca8459c73210800000000000000
+      internalID: 1312739181344579936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 572
+        width: 202
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0536aadbeb2010850800000000000000
+      internalID: 6341352768563471184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 574
+        width: 229
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d576f92a9f82dbd50800000000000000
+      internalID: 6754600068765935453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 572
+        width: 198
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c006df32f6cfa20800000000000000
+      internalID: 3097472844089527356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 574
+        width: 203
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c95daef94fddb0800000000000000
+      internalID: -4765008522555832057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 573
+        width: 217
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99830272f3873b1c0800000000000000
+      internalID: -4489112190923556711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 299
+        width: 208
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497842d84c2069fe0800000000000000
+      internalID: -1182754808933349484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 293
+        width: 208
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada8f01e87bec990800000000000000
+      internalID: -7363746519906210399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 300
+        width: 208
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436c64c5806fc6280800000000000000
+      internalID: -9048587035525855692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 298
+        width: 208
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df02ec56d7853ce0800000000000000
+      internalID: -1426084352241823789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 293
+        width: 222
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf0f428ae05c05b0800000000000000
+      internalID: -5400852884985278523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 304
+        width: 176
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db72c4bea84af6990800000000000000
+      internalID: -7390507546931615811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 22
+        width: 213
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8e3d1f45b5bb0c0800000000000000
+      internalID: -4558949777389917961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 21
+        width: 213
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56558b0a87b00f30800000000000000
+      internalID: 4539830227916117595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 20
+        width: 213
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b550bf541871c0800000000000000
+      internalID: -4505829025971326484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 24
+        width: 213
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6edba3a7134bbd0800000000000000
+      internalID: -2615411082554120530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 22
+        width: 229
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9ed801a701457b0800000000000000
+      internalID: -5236542350275253790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterminator spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 31
+        width: 330
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27cd0cd2a7145b40800000000000000
+      internalID: 5427989439132321578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
