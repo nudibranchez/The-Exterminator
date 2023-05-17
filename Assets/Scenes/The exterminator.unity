@@ -11927,7 +11927,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3594000678171480547, guid: ca571994ee0e61345bb20f1028f09ab8, type: 3}
       propertyPath: speed
-      value: 15
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 3594000678171480547, guid: ca571994ee0e61345bb20f1028f09ab8, type: 3}
       propertyPath: DickNballs
